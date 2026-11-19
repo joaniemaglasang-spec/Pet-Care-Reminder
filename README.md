@@ -1,20 +1,18 @@
-# tesla-website-design
-A modern and responsive Tesla-inspired website design showcasing electric vehicles, innovative automotive technology, and a sleek user-friendly interface.
+# Pet Care Reminder
 
-Tesla Website Design
+## Project Purpose
+The Pet Care Reminder project helps pet owners keep track of the daily and monthly tasks that keep their pets healthy, clean, and happy. It provides a simple checklist of care reminders that is easy to read and update.
 
-Project Purpose
+## Planned Features
+1. **Daily Feeding Reminder** – Feed the pets every morning and evening.
+2. **Clean Water Reminder** – Provide clean drinking water daily.
+3. **Clean Sleeping Area** – Keep the pets' sleeping area clean.
+4. **Veterinary Checkups** – Schedule regular veterinary checkups.
+5. **Exercise and Play** – Give pets enough time for exercise and play.
+6. **Flea and Tick Prevention** – Give flea and tick prevention monthly.
 
-The Tesla Website Design project aims to create a modern, responsive, and visually appealing website inspired by Tesla's official website. It showcases Tesla's electric vehicles, innovative technologies, and commitment to sustainable transportation while providing users with a smooth and engaging browsing experience.
+## Project Type
+Pet care reminder list (text file)
 
-Planned Features
-
-1. Homepage – A modern landing page featuring Tesla vehicles, promotional banners, and navigation menus.
-
-2. Vehicle Showcase – Display Tesla vehicle models with images, specifications, and descriptions.
-
-3. Responsive Design – Ensure the website adapts to desktop, tablet, and mobile devices.
-
-4. Navigation Menu – Provide easy access to different website sections.
-
-5. Contact Section – Include contact information and links to Tesla's official platforms.
+## Repository
+`pet-care-reminder`
